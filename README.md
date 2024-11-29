@@ -24,8 +24,8 @@ Welcome to my personal README! This is where I showcase a bit about myself and w
 - I'm a member of the Tensor Club design team at MVJ College of Engineering.  
 
 ## 📫 How to Reach Me  
-- Email: [Your Email Here]  
-- LinkedIn: [Your LinkedIn Profile Here]  
-- GitHub: [Your GitHub Profile Here]  
+- Email: [yushaoffline@gmail.com]  
+- LinkedIn: [www.linkedin.com/in/mohammad-yusha-718b26279]  
+- GitHub: [md-Yusha]  
 
 Thank you for visiting my README! 🚀  
