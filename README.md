@@ -83,7 +83,7 @@ Figma, Canva, VS Code, GitHub, n8n, Three.js, Adobe Cloud applications
 
 ## 📫 Connect With Me  
 - 📧 **Email:** [yushaoffline@gmail.com](mailto:yushaoffline@gmail.com)  
-- 💼 **LinkedIn:** [linkedin.com/in/mohammad-yusha-718b26279](https://linkedin.com/in/md-yusha0001)  
+- 💼 **LinkedIn:** [linkedin.com/in/md-yusha0001](https://linkedin.com/in/md-yusha0001)  
 - 🧑‍💻 **GitHub:** [md-Yusha](https://github.com/md-Yusha)  
 
 ---
