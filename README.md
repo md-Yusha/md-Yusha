@@ -89,3 +89,10 @@ Figma, Canva, VS Code, GitHub, n8n, Three.js, Adobe Cloud applications
 ---
 
 <h3 align="center">⚡ “In a world run by AI, I want to be the one who builds it.” ⚡</h3>
+# GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=md-Yusha&theme=onedark&hide_border=true&include_all_commits=true&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=md-Yusha&theme=onedark&hide_border=true)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=md-Yusha&theme=onedark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+
+## Contribution Graph
+![](https://github-readme-activity-graph.vercel.app/graph?username=md-Yusha&theme=gruvbox)
